@@ -1,0 +1,33 @@
+a:active,
+a:hover,
+a:visited,
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+button,
+.btn {
+    background-color: white !important;
+    color: grey !important;
+    border-radius: 10px !important;
+    color: #160214 !important;
+}
+
+body {
+    background-color: peachpuff;
+}
+
+button:hover,
+.btn:hover {
+    background-color: black !important;
+    color: white !important;
+}
+
+td {
+    font-family: "Courier New", Courier, monospace;
+}
+
+li {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
